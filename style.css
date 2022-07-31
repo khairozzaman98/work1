@@ -1,0 +1,102 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    padding: 5px;
+}
+
+.orange-color{
+    color: orangered;
+}
+
+.flexible-container{
+    display: flex;
+}
+h1{
+    font-size: 40px;
+}
+
+.link-button{
+    color: white;
+    font-weight: 700;
+    text-decoration: none;
+    background-image: linear-gradient(orange,tomato);
+    padding: 10px 40px;
+    border-radius: 15px;
+}
+.half-width{
+    width: 50%;
+}
+.half-width img{
+    width: 60%;
+    border-radius: 5%;
+    padding-top: 10px;
+    padding-left: 10%;
+    
+}
+.back_g{
+    background-image: url(backpic/7.png);
+}
+.half-width1{
+    display: flex;
+}
+
+.Recipe_list{
+    text-align: center;
+}
+.Recipe_list p{
+   text-align: center;
+   width: 50%;
+   display: inline-block;
+}
+.half-width1  img{
+    width: 63.33%;
+    border-radius: 5%;
+    padding-top: 25px;
+    padding-left: 60px;
+    
+}
+#recipe{
+    text-align: center;
+}
+#recipe1{
+    
+    margin: 5px;
+    text-align: start;
+}
+.food{
+    color: orangered;
+}
+.network{
+    color: darkslategray;
+}
+
+.flow{
+    display: flex;
+    text-align: center;
+    padding-bottom: 8%;
+}
+
+.c1{
+    padding-left: 20%;
+    
+}
+.c2{
+    padding-left: 15%;
+}
+.c3{
+    padding-left: 15%;
+}
+
+footer{
+    background-color: black;
+    height: 200px;
+}
+
+footer h1,p{
+    text-align: center;
+    padding-top: 25px;
+    padding-bottom: -5;
+}
+
+#Eat{
+    color: white;
+}
